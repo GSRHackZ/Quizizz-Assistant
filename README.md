@@ -5,7 +5,7 @@ Learns from your mistakes, does the assignment for you after.
 
 <h3>Steps for use: </h3>
 <ol style="margin-bottom:10px;">
-<li>Install this userscript.<br>
+  <li>Install this userscript.</li><br>
 <li>Open a quizizz assignment.</li><br>
 <li>Answer randomly <b>(Important info below!)</b></li><br>
 <li>When finished, replay the quiz. Bot will answer everything at 100% accuracy for you.</li><br>
