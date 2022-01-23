@@ -18,7 +18,7 @@ Learns from your mistakes, does the assignment for you after.
 <li>Works only if teacher allows you to have more than one submission. 💁‍♂️</li><br>
 <li>Only works for multiple choice answers at the moment, short response and more in progress. 🔃</li><br>
 <li>Answers everything correctly on the second attempt (Answers all redemption questions correctly as well) ✅</li><br>
-<li>I don't recommend you use this tool a lot for two reasons. One is, you should do your work honestly for your own good, or then how will you learn??💀</li><br>
+<li>I don't recommend you use this tool a lot for many reasons. One is, you should do your work honestly, or then how will you learn??💀</li><br>
 <li>Do not rely on this tool at all, it's just for fun!! 🤦‍♂️</li><br>
 <li>You can not hold me liable for your actions. This tool is for educational purposes only. You have been warned !! ⚠</li><br>
 <li><b>Important Notice:</b> The bot will answer randomly for you when you open an assignment during the first attempt and then redo it for you by itself. If you don't want it to answer randomly for you in the first attempt, edit the script's first line. Where it says "miner=true", change it to <b>false</b> ‼</li><br>
